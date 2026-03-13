@@ -4,7 +4,7 @@ This repository is dedicated to practicing competitive programming.
 
 ## Features
 - Solutions to various problems
-- Code examples
+- Code examples in Python
 
 ## Tech Stack
 - Python
@@ -13,5 +13,4 @@ This repository is dedicated to practicing competitive programming.
 - Clone the repository and explore the solutions.
 
 ## Future Plans
-- Add more solutions
-- Improve code quality
+- Add more solutions with explanations.
